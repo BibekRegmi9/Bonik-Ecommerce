@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![p1](https://github.com/BibekRegmi9/Bonik-Ecommerce/assets/47585371/9edfea0f-d952-4827-b696-721cbea676b9)
 
+![p2](https://github.com/BibekRegmi9/Bonik-Ecommerce/assets/47585371/aac1267d-c15e-471d-b571-4fe9a26ba9fb)
+
+![p3](https://github.com/BibekRegmi9/Bonik-Ecommerce/assets/47585371/77c53599-4238-4858-9367-ebedcad1acd1)
+![p4](https://github.com/BibekRegmi9/Bonik-Ecommerce/assets/47585371/9d91210d-64da-444a-b868-3bc078bb10db)
+
 ## Available Scripts
 
 In the project directory, you can run:
