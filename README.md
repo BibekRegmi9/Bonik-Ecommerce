@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![p1](https://github.com/BibekRegmi9/Bonik-Ecommerce/assets/47585371/9edfea0f-d952-4827-b696-721cbea676b9)
+
 ## Available Scripts
 
 In the project directory, you can run:
